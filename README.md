@@ -35,10 +35,10 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Wind
 
 ## Banks
-- BMP
 - CIBC
 - BMO
 - PC Financial (Almost 100% Online)
+- RBC
 - Tangerine (Almost 100% Online)
 - TD
 
