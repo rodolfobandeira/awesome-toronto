@@ -31,8 +31,8 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 ## Phone Companies
 - Bell
 - Rogers
-- Fido
-- Wind
+- [Fido](http://www.fido.ca/)
+- [Freedom Mobile - Wind](https://www.freedommobile.ca/) 
 
 ## Banks
 - CIBC
