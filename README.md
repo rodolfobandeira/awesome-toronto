@@ -24,15 +24,25 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Cheap Food
 - Sports Bar
 - Stake House
+- Noka (Bloor st) for Asian Food
+- Queen Warehouse / El Furniture
+- Jack Astors
+
+## Worth Seeing/Doing
+- Yonge-Dundas Square
+- Trains Expo by the CN Tower
+- Taking the 510 in the evening to appreciate the view around Roger Centre / CN Tower
 
 ## Malls
 - [Eaton Centre (Google Maps)](https://goo.gl/maps/aQNcrhaPuh42)
+- Yorkdale
 
 ## Phone Companies
 - Bell
 - Rogers
 - [Fido](http://www.fido.ca/)
-- [Freedom Mobile - Wind](https://www.freedommobile.ca/) 
+- [Freedom Mobile - Wind](https://www.freedommobile.ca/)
+- Koodo
 
 ## Banks
 - CIBC
