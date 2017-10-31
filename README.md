@@ -18,8 +18,9 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
 - [Toronto Island](http://www.torontoisland.com/)
+- Ontario Legislative Building: This is the building portraited in the front cover of RUSH's album Moving Pictures, a must visit for RUSH fans!
 
-## Restaurants
+## Bars and Restaurants
 - Fine Food
 - Cheap Food
 - Sports Bar
@@ -32,6 +33,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Yonge-Dundas Square
 - Trains Expo by the CN Tower
 - Taking the 510 in the evening to appreciate the view around Roger Centre / CN Tower
+- The Orbit Room: Good bar with live music founded by RUSH's guitarist Alex Lifeson, this is a must go for RUSH fans! (http://www.orbitroom.ca/about_us)
 
 ## Malls
 - [Eaton Centre (Google Maps)](https://goo.gl/maps/aQNcrhaPuh42)
