@@ -26,15 +26,25 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Sports Bar
 - Stake House
 - The Orbit Room: Good bar with live music founded by RUSH's guitarist Alex Lifeson, this is a must go for RUSH fans! (http://www.orbitroom.ca/about_us)
+- Noka (Bloor st) for Asian Food
+- Queen Warehouse / El Furniture
+- Jack Astors
+
+## Worth Seeing/Doing
+- Yonge-Dundas Square
+- Trains Expo by the CN Tower
+- Taking the 510 in the evening to appreciate the view around Roger Centre / CN Tower
 
 ## Malls
 - [Eaton Centre (Google Maps)](https://goo.gl/maps/aQNcrhaPuh42)
+- Yorkdale
 
 ## Phone Companies
 - Bell
 - Rogers
 - [Fido](http://www.fido.ca/)
-- [Freedom Mobile - Wind](https://www.freedommobile.ca/) 
+- [Freedom Mobile - Wind](https://www.freedommobile.ca/)
+- Koodo
 
 ## Banks
 - CIBC
