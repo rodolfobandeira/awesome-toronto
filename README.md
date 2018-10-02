@@ -28,6 +28,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Noka (Bloor st) for Asian Food
 - Queen Warehouse / El Furniture
 - Jack Astors
+- [Onoir Restaurant](http://www.onoirtoronto.com/) Fun and unique dining experience
 
 ## Worth Seeing/Doing
 - Yonge-Dundas Square
