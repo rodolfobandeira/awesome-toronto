@@ -45,6 +45,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 ## Malls
 - [Eaton Centre (Google Maps)](https://goo.gl/maps/aQNcrhaPuh42)
 - Yorkdale
+- [Dufferin Mall (Wikipedia)](https://en.wikipedia.org/wiki/Dufferin_Mall)
 
 ## Phone Companies
 - Bell
