@@ -14,6 +14,9 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 
 ## Museums/Arts
 - [Royal Ontario Museum](http://www.rom.on.ca/)
+- [Hockey Hall of Fame](https://www.hhof.com/)
+- [Aga Khan Museum](https://www.agakhanmuseum.org/)
+- [Toronto Railway Museum](http://www.torontorailwaymuseum.ca/trm2018/)
 
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
