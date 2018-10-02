@@ -35,6 +35,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Queen Warehouse / El Furniture
 - Jack Astors
 - [Onoir Restaurant](http://www.onoirtoronto.com/) Fun and unique dining experience
+- Marche Movenpick
 
 ## Worth Seeing/Doing
 - Yonge-Dundas Square
