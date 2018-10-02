@@ -8,15 +8,18 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 ## Transportation
 - [Subway Map](http://www.ttc.ca/Subway/interactive_map/interactive_map.jsp#)
 - Uber is available
+- Lyft is available
+- [Metrolinx Go Train](http://www.metrolinx.com/en/) - Connects cities around Toronto
 
 ## Parks
-- High Parks
+- [High Park](http://www.highparktoronto.com/)
 
 ## Museums/Arts
 - [Royal Ontario Museum](http://www.rom.on.ca/)
 - [Hockey Hall of Fame](https://www.hhof.com/)
 - [Aga Khan Museum](https://www.agakhanmuseum.org/)
 - [Toronto Railway Museum](http://www.torontorailwaymuseum.ca/trm2018/)
+- [Beta Shoe Museum](http://www.batashoemuseum.ca)
 
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
