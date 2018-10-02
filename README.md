@@ -50,11 +50,11 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Dufferin Mall (Wikipedia)](https://en.wikipedia.org/wiki/Dufferin_Mall)
 
 ## Phone Companies
-- Bell
-- Rogers
+- [Bell](https://www.bell.ca/)
+- [Rogers](https://www.rogers.com/consumer/home)
 - [Fido](http://www.fido.ca/)
 - [Freedom Mobile - Wind](https://www.freedommobile.ca/)
-- Koodo
+- [Koodo](https://www.koodomobile.com/)
 
 ## Banks
 - CIBC
