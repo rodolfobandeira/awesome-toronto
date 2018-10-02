@@ -42,6 +42,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Trains Expo by the CN Tower
 - Taking the 510 in the evening to appreciate the view around Roger Centre / CN Tower
 - The Orbit Room: Good bar with live music founded by RUSH's guitarist Alex Lifeson, this is a must go for RUSH fans! (http://www.orbitroom.ca/about_us)
+- See a sports game[Check out Leafs Games here](https://www.nhl.com/mapleleafs/schedule/2018-09-01/ET)
 - [Graffiti Alley (Google Maps)](https://www.google.ca/maps/place/Graffiti+Alley,+Toronto,+ON,+Canad%C3%A1/@43.6477094,-79.4016842,17z/data=!4m5!3m4!1s0x882b34dc5d1879bd:0xb1e3dea697e20389!8m2!3d43.6477085!4d-79.3995188): It is one of the best known locations to see Toronto Graffiti.There is about a kilometer's worth of wall space of varying quality.
 ## Malls
 - [Eaton Centre (Google Maps)](https://goo.gl/maps/aQNcrhaPuh42)
