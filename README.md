@@ -1,4 +1,4 @@
-# awesome-toronto
+﻿# awesome-toronto
 Awesome tips to guide you in Toronto, Canada 🇨🇦
 
 ## Airports
@@ -13,6 +13,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 
 ## Parks
 - [High Park](http://www.highparktoronto.com/)
+- [Allan Gardens](https://www.toronto.ca/data/parks/prd/facilities/complex/41/index.html)
 
 ## Museums/Arts
 - [Royal Ontario Museum](http://www.rom.on.ca/)
