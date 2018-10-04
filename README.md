@@ -39,7 +39,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Marche Movenpick
 
 ## Worth Seeing/Doing
-- Yonge-Dundas Square
+- Yonge-Dundas Square: [Official website](http://www.ydsquare.ca/) & [Wikipedia](https://en.wikipedia.org/wiki/Yonge%E2%80%93Dundas_Square)
 - Trains Expo by the CN Tower
 - Taking the 510 in the evening to appreciate the view around Roger Centre / CN Tower
 - The Orbit Room: Good bar with live music founded by RUSH's guitarist Alex Lifeson, this is a must go for RUSH fans! (http://www.orbitroom.ca/about_us)
