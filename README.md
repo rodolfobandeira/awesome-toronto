@@ -21,6 +21,9 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Aga Khan Museum](https://www.agakhanmuseum.org/)
 - [Toronto Railway Museum](http://www.torontorailwaymuseum.ca/trm2018/)
 - [Beta Shoe Museum](http://www.batashoemuseum.ca)
+- Casa Loma: Casa Loma is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt.
+[Official website] (http://casaloma.ca/)
+[Wikipedia] (https://en.wikipedia.org/wiki/Casa_Loma)
 
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
@@ -45,6 +48,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - The Orbit Room: Good bar with live music founded by RUSH's guitarist Alex Lifeson, this is a must go for RUSH fans! (http://www.orbitroom.ca/about_us)
 - See a sports game[Check out Leafs Games here](https://www.nhl.com/mapleleafs/schedule/2018-09-01/ET)
 - [Graffiti Alley (Google Maps)](https://www.google.ca/maps/place/Graffiti+Alley,+Toronto,+ON,+Canad%C3%A1/@43.6477094,-79.4016842,17z/data=!4m5!3m4!1s0x882b34dc5d1879bd:0xb1e3dea697e20389!8m2!3d43.6477085!4d-79.3995188): It is one of the best known locations to see Toronto Graffiti.There is about a kilometer's worth of wall space of varying quality.
+
 ## Malls
 - [Eaton Centre (Google Maps)](https://goo.gl/maps/aQNcrhaPuh42)
 - Yorkdale
