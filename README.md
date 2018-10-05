@@ -29,6 +29,8 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [CN Tower](http://www.cntower.ca/)
 - [Toronto Island](http://www.torontoisland.com/)
 - Ontario Legislative Building: This is the building portraited in the front cover of RUSH's album Moving Pictures, a must visit for RUSH fans!
+- [The Toronto Zoo](http://www.torontozoo.com/): The Toronto Zoo is the largest zoo in Canada and set in the beautiful Rouge Valley. The zoo is located near the Rouge River, along the western border of Rouge Park in the city's east end district of Scarborough.
+[The Toronto Zoo Wikipedia](https://en.wikipedia.org/wiki/Toronto_Zoo)
 
 ## Bars and Restaurants
 - Fine Food
