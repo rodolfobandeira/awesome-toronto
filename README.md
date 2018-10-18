@@ -10,6 +10,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Uber is available
 - Lyft is available
 - [Metrolinx Go Train](http://www.metrolinx.com/en/) - Connects cities around Toronto
+- [Fast Ferry](https://rocwiki.org/Fast_Ferry) - No longer connects Rochester to Toronto...but it should.
 
 ## Parks
 - [High Park](http://www.highparktoronto.com/)
