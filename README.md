@@ -26,6 +26,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 [Official website] (http://casaloma.ca/)
 [Wikipedia] (https://en.wikipedia.org/wiki/Casa_Loma)
 - [Ripley's Aquarium of Canada](https://www.ripleyaquariums.com/canada/) 
+- [Ontario Science Centre](https://www.ontariosciencecentre.ca/)
 
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
