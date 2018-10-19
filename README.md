@@ -23,8 +23,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Toronto Railway Museum](http://www.torontorailwaymuseum.ca/trm2018/)
 - [Beta Shoe Museum](http://www.batashoemuseum.ca)
 - Casa Loma: Casa Loma is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt.
-[Official website] (http://casaloma.ca/)
-[Wikipedia] (https://en.wikipedia.org/wiki/Casa_Loma)
+[Casa Loma Official Website](http://casaloma.ca/) and [Casa Loma Wikipedia](https://en.wikipedia.org/wiki/Casa_Loma)
 - [Ripley's Aquarium of Canada](https://www.ripleyaquariums.com/canada/) 
 - [Ontario Science Centre](https://www.ontariosciencecentre.ca/)
 
