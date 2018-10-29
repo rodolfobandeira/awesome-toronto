@@ -3,7 +3,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 
 ## Airports
 - [International Pearson Airport](https://www.torontopearson.com/)
-- [Regional Airport (Usually 1h/2h flights)](https://www.portstoronto.com/) 
+- [Regional Airport (Usually 1h/2h flights)](https://www.portstoronto.com/)
 
 ## Transportation
 - [Subway Map](http://www.ttc.ca/Subway/interactive_map/interactive_map.jsp#)
@@ -15,6 +15,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [High Park](http://www.highparktoronto.com/)
 - [Allan Gardens](https://www.toronto.ca/data/parks/prd/facilities/complex/41/index.html)
 - [Trinity Bellwoods Park](http://www.trinitybellwoods.ca/)
+- [Tommy Thompson Park] (https://tommythompsonpark.ca/)
 
 ## Museums/Arts
 - [Royal Ontario Museum](http://www.rom.on.ca/)
@@ -24,7 +25,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Beta Shoe Museum](http://www.batashoemuseum.ca)
 - Casa Loma: Casa Loma is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt.
 [Casa Loma Official Website](http://casaloma.ca/) and [Casa Loma Wikipedia](https://en.wikipedia.org/wiki/Casa_Loma)
-- [Ripley's Aquarium of Canada](https://www.ripleyaquariums.com/canada/) 
+- [Ripley's Aquarium of Canada](https://www.ripleyaquariums.com/canada/)
 - [Ontario Science Centre](https://www.ontariosciencecentre.ca/)
 
 ## Tourism
@@ -72,5 +73,3 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - RBC
 - Tangerine (Almost 100% Online)
 - TD
-
-
