@@ -15,7 +15,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [High Park](http://www.highparktoronto.com/)
 - [Allan Gardens](https://www.toronto.ca/data/parks/prd/facilities/complex/41/index.html)
 - [Trinity Bellwoods Park](http://www.trinitybellwoods.ca/)
-- [Tommy Thompson Park] (https://tommythompsonpark.ca/)
+- [Tommy Thompson Park](https://tommythompsonpark.ca/)
 
 ## Museums/Arts
 - [Royal Ontario Museum](http://www.rom.on.ca/)
