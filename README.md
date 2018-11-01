@@ -45,6 +45,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Jack Astors
 - [Onoir Restaurant](http://www.onoirtoronto.com/) Fun and unique dining experience
 - Marche Movenpick
+- [Figs and Olives Kitchen](http://figsnolives.ca/)
 
 ## Worth Seeing/Doing
 - Yonge-Dundas Square: [Official website](http://www.ydsquare.ca/) & [Wikipedia](https://en.wikipedia.org/wiki/Yonge%E2%80%93Dundas_Square)
