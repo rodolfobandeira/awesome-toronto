@@ -14,6 +14,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 ## Parks
 - [High Park](http://www.highparktoronto.com/)
 - [Allan Gardens](https://www.toronto.ca/data/parks/prd/facilities/complex/41/index.html)
+- [Edwards Gardens](https://torontobotanicalgarden.ca/get-gardening/public-gardens/edwards-gardens/)
 - [Trinity Bellwoods Park](http://www.trinitybellwoods.ca/)
 - [Tommy Thompson Park](https://tommythompsonpark.ca/)
 
@@ -46,6 +47,8 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Onoir Restaurant](http://www.onoirtoronto.com/) Fun and unique dining experience
 - Marche Movenpick
 - [Figs and Olives Kitchen](http://figsnolives.ca/)
+- [R&D](https://www.rdspadina.com/) Asian Fusion and Chinese Food
+- [Fishman Lobster Clubhouse](https://flctoronto.com/) Chinese Food
 
 ## Worth Seeing/Doing
 - Yonge-Dundas Square: [Official website](http://www.ydsquare.ca/) & [Wikipedia](https://en.wikipedia.org/wiki/Yonge%E2%80%93Dundas_Square)
