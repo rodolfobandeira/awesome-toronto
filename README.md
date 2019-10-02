@@ -79,3 +79,10 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - RBC
 - Tangerine (Almost 100% Online)
 - TD
+
+## Hostels
+- [Planet Traveler Hostel](https://theplanettraveler.com/)
+- [HI Toronto](https://hihostels.ca/en/destinations/ontario/hi-toronto)
+- [The Clarence Park](http://www.theclarencepark.com/)
+- [The Only Backpacker's Inn](https://the-only-backpackers-inn.com/en-us)
+- [All Days Hostel](http://www.alldayshostel.com/)
