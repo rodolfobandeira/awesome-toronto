@@ -16,6 +16,9 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Allan Gardens](https://www.toronto.ca/data/parks/prd/facilities/complex/41/index.html)
 - [Trinity Bellwoods Park](http://www.trinitybellwoods.ca/)
 - [Tommy Thompson Park](https://tommythompsonpark.ca/)
+- [Grange Park](http://grangeparktoronto.ca/grange-park-today/)
+- [Dufferin Grove Park](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/)
+- [Sunnybrook Park](https://www.toronto.ca/data/parks/prd/facilities/complex/28/index.html)
 
 ## Museums/Arts
 - [Royal Ontario Museum](http://www.rom.on.ca/)
@@ -27,6 +30,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 [Casa Loma Official Website](http://casaloma.ca/) and [Casa Loma Wikipedia](https://en.wikipedia.org/wiki/Casa_Loma)
 - [Ripley's Aquarium of Canada](https://www.ripleyaquariums.com/canada/)
 - [Ontario Science Centre](https://www.ontariosciencecentre.ca/)
+- [Art Gallery of Ontario](https://ago.ca/)
 
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
