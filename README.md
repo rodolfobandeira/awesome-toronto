@@ -53,6 +53,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Figs and Olives Kitchen](http://figsnolives.ca/)
 - [R&D](https://www.rdspadina.com/) Asian Fusion and Chinese Food
 - [Fishman Lobster Clubhouse](https://flctoronto.com/) Chinese Food
+- [Grey Gardens](http://www.greygardens.ca/)
 
 ## Worth Seeing/Doing
 - Yonge-Dundas Square: [Official website](http://www.ydsquare.ca/) & [Wikipedia](https://en.wikipedia.org/wiki/Yonge%E2%80%93Dundas_Square)
