@@ -32,6 +32,8 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Ripley's Aquarium of Canada](https://www.ripleyaquariums.com/canada/)
 - [Ontario Science Centre](https://www.ontariosciencecentre.ca/)
 - [Art Gallery of Ontario](https://ago.ca/)
+- [Black Creek Pioneer Village](https://blackcreek.ca/): This open-air heritage museum is a snapshot of rural life in the 19th century. It recreates life in 1867 with restored homes, stores, farms, churches and schools, plus a dedicated crew of costumed villagers.
+
 
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
@@ -39,6 +41,8 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Ontario Legislative Building: This is the building portraited in the front cover of RUSH's album Moving Pictures, a must visit for RUSH fans!
 - [The Toronto Zoo](http://www.torontozoo.com/): The Toronto Zoo is the largest zoo in Canada and set in the beautiful Rouge Valley. The zoo is located near the Rouge River, along the western border of Rouge Park in the city's east end district of Scarborough.
 [The Toronto Zoo Wikipedia](https://en.wikipedia.org/wiki/Toronto_Zoo)
+- [Distillery District](http://www.thedistillerydistrict.com/): The Distillery District is a restored historic area, which has been transformed into a trendy entertainment and shopping district. A variety of entertainment events are held here, the most well-known being the annual Toronto Christmas Market.
+
 
 ## Bars and Restaurants
 - Fine Food
