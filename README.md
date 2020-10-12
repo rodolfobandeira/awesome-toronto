@@ -26,13 +26,14 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Hockey Hall of Fame](https://www.hhof.com/)
 - [Aga Khan Museum](https://www.agakhanmuseum.org/)
 - [Toronto Railway Museum](http://www.torontorailwaymuseum.ca/trm2018/)
-- [Beta Shoe Museum](http://www.batashoemuseum.ca)
+- [Bata Shoe Museum](http://www.batashoemuseum.ca)
 - Casa Loma: Casa Loma is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt.
 [Casa Loma Official Website](http://casaloma.ca/) and [Casa Loma Wikipedia](https://en.wikipedia.org/wiki/Casa_Loma)
 - [Ripley's Aquarium of Canada](https://www.ripleyaquariums.com/canada/)
 - [Ontario Science Centre](https://www.ontariosciencecentre.ca/)
 - [Art Gallery of Ontario](https://ago.ca/)
 - [Black Creek Pioneer Village](https://blackcreek.ca/): This open-air heritage museum is a snapshot of rural life in the 19th century. It recreates life in 1867 with restored homes, stores, farms, churches and schools, plus a dedicated crew of costumed villagers.
+- [Museum of Illusions](https://museumofillusions.ca/):Toronto’s Museum of Illusions is a very contemporary take on the old fairground funhouse – a minimalist space that opened in 2018.
 
 
 ## Tourism
