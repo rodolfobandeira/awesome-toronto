@@ -82,3 +82,11 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [The Clarence Park](http://www.theclarencepark.com/)
 - [The Only Backpacker's Inn](https://the-only-backpackers-inn.com/en-us)
 - [All Days Hostel](http://www.alldayshostel.com/)
+
+## Grocery Stores
+- Metro (several locations)
+- Rabba Fine Foods (126 Simcoe St, Toronto, ON M5H 4E6, Canada)
+- Loblaws (multiple locations)
+- Summerhill Market (446 Summerhill Ave, Toronto, ON M4W 2E4, Canada)
+- Lucky Moose Food Mart (393 Dundas St W, Toronto, ON M5T 1G6, Canada)
+
