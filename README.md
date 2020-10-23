@@ -59,6 +59,9 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [R&D](https://www.rdspadina.com/) Asian Fusion and Chinese Food
 - [Fishman Lobster Clubhouse](https://flctoronto.com/) Chinese Food
 - [Grey Gardens](http://www.greygardens.ca/)
+- [Richmond Station](https://richmondstation.ca/)
+- [Miku Toronto](https://mikutoronto.com/)
+- [PAI](http://www.paitoronto.com/)
 
 ## Worth Seeing/Doing
 - Yonge-Dundas Square: [Official website](http://www.ydsquare.ca/) & [Wikipedia](https://en.wikipedia.org/wiki/Yonge%E2%80%93Dundas_Square)
@@ -73,6 +76,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Yorkdale
 - [Dufferin Mall (Wikipedia)](https://en.wikipedia.org/wiki/Dufferin_Mall)
 - [Yorkdale Shopping Centre (Wikipedia)](https://en.wikipedia.org/wiki/Yorkdale_Shopping_Centre)
+- [CF Fairview Mall](https://www.cfshops.com/fairview-mall.html?cid=lis_fvw_en_hp_gb)
 
 ## Phone Companies
 - [Bell](https://www.bell.ca/)
@@ -95,6 +99,8 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [The Clarence Park](http://www.theclarencepark.com/)
 - [The Only Backpacker's Inn](https://the-only-backpackers-inn.com/en-us)
 - [All Days Hostel](http://www.alldayshostel.com/)
+- [The Parkdale Hostellerie](http://www.theparkdale.ca/)
+- [Gosling's Landing](http://www.goslingslanding.ca/)
 
 ## Grocery Stores
 - Metro (several locations)
