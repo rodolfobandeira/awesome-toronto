@@ -20,6 +20,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Grange Park](http://grangeparktoronto.ca/grange-park-today/)
 - [Dufferin Grove Park](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/)
 - [Sunnybrook Park](https://www.toronto.ca/data/parks/prd/facilities/complex/28/index.html)
+- [Oriole Park](https://www.toronto.ca/data/parks/prd/facilities/complex/245/index.html)
 
 ## Museums/Arts
 - [Royal Ontario Museum](http://www.rom.on.ca/)
@@ -77,6 +78,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [Dufferin Mall (Wikipedia)](https://en.wikipedia.org/wiki/Dufferin_Mall)
 - [Yorkdale Shopping Centre (Wikipedia)](https://en.wikipedia.org/wiki/Yorkdale_Shopping_Centre)
 - [CF Fairview Mall](https://www.cfshops.com/fairview-mall.html?cid=lis_fvw_en_hp_gb)
+- [Yorkville Village Mall](https://www.shopping-canada.com/shopping-malls-centers/ontario/toronto/hazelton-lanes)
 
 ## Phone Companies
 - [Bell](https://www.bell.ca/)
