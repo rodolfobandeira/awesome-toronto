@@ -111,3 +111,5 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Summerhill Market (446 Summerhill Ave, Toronto, ON M4W 2E4, Canada)
 - Lucky Moose Food Mart (393 Dundas St W, Toronto, ON M5T 1G6, Canada)
 
+## Historical Sites
+- Heliconian Club (https://en.wikipedia.org/wiki/Heliconian_Club)
