@@ -113,3 +113,4 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 
 ## Historical Sites
 - Heliconian Club (https://en.wikipedia.org/wiki/Heliconian_Club)
+- Fort York (https://en.wikipedia.org/wiki/Fort_York)
