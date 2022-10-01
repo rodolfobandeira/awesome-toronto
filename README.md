@@ -113,3 +113,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 
 ## Historical Sites
 - Heliconian Club (https://en.wikipedia.org/wiki/Heliconian_Club)
+
+## Markets
+- St. Lawrence Market (https://www.google.co.in/maps/place/St.+Lawrence+Market/@43.6486879,-79.3737341,17z/)
+- Kensington Market BIA (https://www.google.co.in/maps/place/Kensington+Market+BIA/@43.6550705,-79.4020988,17z/)
