@@ -103,6 +103,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - [All Days Hostel](http://www.alldayshostel.com/)
 - [The Parkdale Hostellerie](http://www.theparkdale.ca/)
 - [Gosling's Landing](http://www.goslingslanding.ca/)
+- [Ode](http://www.odetoronto.ca/)
 
 ## Grocery Stores
 - Metro (several locations)
