@@ -114,6 +114,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 
 ## Historical Sites
 - Heliconian Club (https://en.wikipedia.org/wiki/Heliconian_Club)
+- Fort York (https://en.wikipedia.org/wiki/Fort_York)
 
 ## Markets
 - St. Lawrence Market (https://www.google.co.in/maps/place/St.+Lawrence+Market/@43.6486879,-79.3737341,17z/)
